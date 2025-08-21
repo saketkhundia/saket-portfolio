@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/saket-portfolio/static/css/main.6cca7b5c.css",
-    "main.js": "/saket-portfolio/static/js/main.e71807a0.js",
+    "main.js": "/saket-portfolio/static/js/main.d8e44d9e.js",
     "static/js/453.24a5d984.chunk.js": "/saket-portfolio/static/js/453.24a5d984.chunk.js",
     "index.html": "/saket-portfolio/index.html",
     "main.6cca7b5c.css.map": "/saket-portfolio/static/css/main.6cca7b5c.css.map",
-    "main.e71807a0.js.map": "/saket-portfolio/static/js/main.e71807a0.js.map",
+    "main.d8e44d9e.js.map": "/saket-portfolio/static/js/main.d8e44d9e.js.map",
     "453.24a5d984.chunk.js.map": "/saket-portfolio/static/js/453.24a5d984.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cca7b5c.css",
-    "static/js/main.e71807a0.js"
+    "static/js/main.d8e44d9e.js"
   ]
 }
