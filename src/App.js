@@ -113,7 +113,7 @@ function App() {
         <div className="project-list">
           {[
             { name: "Chess Game", link: "https://saketkhundia.github.io/chess-game" },
-            { name: "Calculator App", link: "https://github.com/saketkhundia" },
+            { name: "Calculator App", link: "https://saketkhundia.github.io/calculator-app/" },
             { name: "Quotes Generator", link: "https://github.com/saketkhundia/Quote-Generator-Using-React-" },
             { name: "To-Do App", link: "https://github.com/saketkhundia" },
             { name: "Music Player", link: "https://github.com/saketkhundia" }
